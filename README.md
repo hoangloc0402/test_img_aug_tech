@@ -8,6 +8,9 @@ This dataset is small and highly imbalanced, so hopefully all the image augmenta
 <em>Class distribution of Caltech101</em>
 </p>
 
+## Model
+EfficientNet-B0
+
 ## Result
 
 <table>
@@ -61,7 +64,7 @@ This dataset is small and highly imbalanced, so hopefully all the image augmenta
   </tr>
   <tr>
     <td>RandAugment</td>
-    <td></td>
+    <td>70.43</td>
   </tr>
   <tr>
     <td>mixup</td>
