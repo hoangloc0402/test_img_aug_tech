@@ -67,7 +67,7 @@ EfficientNet-B0
     <td>70.43</td>
   </tr>
   <tr>
-    <td>mixup</td>
+    <td>AutoAugment</td>
     <td></td>
   </tr>
   <tr>
@@ -75,3 +75,13 @@ EfficientNet-B0
     <td></td>
   </tr>
 </table>
+
+
+## References:
+<ul>
+  <li><a href="https://pytorch.org/docs/stable/torchvision/transforms.html">pyTorch transformations</a></li>
+  <li><a href="https://arxiv.org/abs/1708.04552">Cutout</a></li>
+  <li><a href="https://arxiv.org/abs/1708.04896">RandomErasing</a></li>
+  <li><a href="https://arxiv.org/abs/1805.09501">AutoAugment</a></li>
+  <li><a href="https://arxiv.org/abs/1909.13719">RandAugment</a></li>
+</ul>
