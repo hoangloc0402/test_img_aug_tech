@@ -4,14 +4,14 @@ This repo shows my experiment on different image augmentation techniques.
 For this experiment, I used the Caltech101. <br>
 This dataset is small and highly imbalanced, so hopefully all the image augmentation techniques can show their effectiveness.
 <p align="center">
-<img src="images/dist.png" width=70% align="center">
+<img src="images/dist.png" width=60% align="center">
 <em>Class distribution of Caltech101</em>
 </p>
 
 ## Model
 EfficientNet-B0
 
-## Result
+## Results
 
 <table>
   <tr>
@@ -63,12 +63,12 @@ EfficientNet-B0
     <td>59.37</td>
   </tr>
   <tr>
-    <td>RandAugment</td>
-    <td>70.43</td>
+    <td>AutoAugment</td>
+    <td>65.30</td>
   </tr>
   <tr>
-    <td>AutoAugment</td>
-    <td></td>
+    <td>RandAugment</td>
+    <td>70.43</td>
   </tr>
   <tr>
     <td>CutMix</td>
