@@ -50,11 +50,11 @@ EfficientNet-B0
     <td><span style="font-weight:400;font-style:normal">68.13</span></td>
   </tr>
   <tr>
-    <td>Crop+Rotate</td>
+    <td>Resized Crop + Rotation</td>
     <td>70.55</td>
   </tr>
   <tr>
-    <td>Affine+Flip+Crop+Rotate+Erase</td>
+    <td>All techniques above</td>
     <td>65.42</td>
   </tr>
   <tr>
