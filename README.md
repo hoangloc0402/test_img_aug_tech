@@ -54,7 +54,7 @@ EfficientNet-B0
     <td>70.55</td>
   </tr>
   <tr>
-    <td>All techniques above</td>
+    <td>Combination of all techniques above</td>
     <td>65.42</td>
   </tr>
   <tr>
