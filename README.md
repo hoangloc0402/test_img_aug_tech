@@ -72,7 +72,7 @@ EfficientNet-B0
   </tr>
   <tr>
     <td>CutMix</td>
-    <td></td>
+    <td>56.60</td>
   </tr>
 </table>
 
@@ -81,6 +81,7 @@ EfficientNet-B0
 <ul>
   <li><a href="https://pytorch.org/docs/stable/torchvision/transforms.html">pyTorch transformations</a></li>
   <li><a href="https://arxiv.org/abs/1708.04552">Cutout</a></li>
+  <li><a href="https://arxiv.org/abs/1905.04899">Cutmix</a></li>
   <li><a href="https://arxiv.org/abs/1708.04896">RandomErasing</a></li>
   <li><a href="https://arxiv.org/abs/1805.09501">AutoAugment</a></li>
   <li><a href="https://arxiv.org/abs/1909.13719">RandAugment</a></li>
