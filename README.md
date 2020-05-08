@@ -9,7 +9,7 @@ This dataset is small and highly imbalanced, so hopefully all the image augmenta
 </p>
 
 ## Model
-EfficientNet-B0
+EfficientNet-B0 for classification
 
 ## Results
 
