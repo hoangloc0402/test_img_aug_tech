@@ -1,5 +1,5 @@
 This repo shows my experiment on different image augmentation techniques.
-
+<a name="head1234"></a>A Heading in this SO entry!
 ## Dataset
 For this experiment, I used the Caltech101. <br>
 This dataset is small and highly imbalanced, so hopefully all the image augmentation techniques can show their effectiveness.
@@ -94,3 +94,6 @@ EfficientNet-B0 for classification
   <li><a href="https://arxiv.org/abs/1805.09501">AutoAugment</a></li>
   <li><a href="https://arxiv.org/abs/1909.13719">RandAugment</a></li>
 </ul>
+
+and we can even [link](#head1234) to it so:
+
